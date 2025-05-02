@@ -87,6 +87,7 @@ Los endpoints fueron testeados usando **Postman Desktop**. Se puede importar una
 
 **Marianela Purretta**  
 _Prueba Tecnica //UTEAM//_  
-GitHub: [(https://github.com/MarianelaPurretta/spring-rest-api-test)]
+GitHub: https://github.com/MarianelaPurretta/spring-rest-api-test
+Documentacion NOTION: https://www.notion.so/Prueba-T-cnica-Spring-REST-API-1e7d7fd19c3380abba9bf52049e41f23
 
 
